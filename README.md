@@ -1,2 +1,1 @@
-# react-query
-React Query Presentation
+# React Query Presentation
